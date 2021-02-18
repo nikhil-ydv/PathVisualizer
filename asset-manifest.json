@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PathVisualizer/static/css/main.3fe6548c.chunk.css",
+    "main.js": "/PathVisualizer/static/js/main.ed19f350.chunk.js",
+    "main.js.map": "/PathVisualizer/static/js/main.ed19f350.chunk.js.map",
+    "runtime-main.js": "/PathVisualizer/static/js/runtime-main.e621a991.js",
+    "runtime-main.js.map": "/PathVisualizer/static/js/runtime-main.e621a991.js.map",
+    "static/js/2.16b168a7.chunk.js": "/PathVisualizer/static/js/2.16b168a7.chunk.js",
+    "static/js/2.16b168a7.chunk.js.map": "/PathVisualizer/static/js/2.16b168a7.chunk.js.map",
+    "static/js/3.583f11bb.chunk.js": "/PathVisualizer/static/js/3.583f11bb.chunk.js",
+    "static/js/3.583f11bb.chunk.js.map": "/PathVisualizer/static/js/3.583f11bb.chunk.js.map",
+    "index.html": "/PathVisualizer/index.html",
+    "static/css/main.3fe6548c.chunk.css.map": "/PathVisualizer/static/css/main.3fe6548c.chunk.css.map",
+    "static/js/2.16b168a7.chunk.js.LICENSE.txt": "/PathVisualizer/static/js/2.16b168a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e621a991.js",
+    "static/js/2.16b168a7.chunk.js",
+    "static/css/main.3fe6548c.chunk.css",
+    "static/js/main.ed19f350.chunk.js"
+  ]
+}
