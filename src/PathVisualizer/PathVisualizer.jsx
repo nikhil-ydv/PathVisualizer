@@ -397,7 +397,7 @@ visualize(algo) {
       <div>
        <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
          <a className="navbar-brand" href="/">
-           <b>PathFinding Visualizer</b>
+           <b>PathVisualizer : ShortestPathAlgorithms </b>
          </a>
          <button
             className="navbar-toggler"
